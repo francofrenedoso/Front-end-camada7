@@ -3,10 +3,8 @@
 		    display:block;
 
 }
-.negrita{
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    
+.negrita li span{
+    font-weight: bolder;
 }
 #titulo{
     background-color: #c4c4c4;
@@ -25,5 +23,8 @@
     background-color:#005677;
     color: #ffffff;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
-
+.listas{
+    list-style-type: none;
+}
